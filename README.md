@@ -1,1 +1,2 @@
-# computing
+x = "Hello World"
+print x
